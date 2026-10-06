@@ -190,7 +190,7 @@ EXIT:    "Wait... we actually built something."
 Thanks for stopping by. I'm still learning, still building, and
 occasionally breaking things in the name of education.
 
-**Feel free to say hi 👋🏾.** 
+**Feel free to say hi.** 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=FF2E97&center=true&vCenter=true&width=520&lines=Building+things.+Breaking+things.+Learning+things.;One+commit+at+a+time.+%F0%9F%9A%80" alt="footer"/>
