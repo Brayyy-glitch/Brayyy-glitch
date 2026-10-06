@@ -47,16 +47,16 @@ jacking into the world of **Data Engineering & AI.** ☕💻
 - [███████░░░░░░░░░░░░░]  35%  AI / DATA          << upgrading...
 ```
 
-| 📡 CHANNEL | 💾 DATA |
+| CHANNEL | DATA |
 |:--|:--|
-| 📌 **Currently working on** | Building my software engineering skills and exploring data engineering |
-| 🌱 **Currently learning** | Java • SQL • Backend Development • Web Development • Data Engineering |
-| 🧩 **Looking to collaborate on** | Data, AI & software projects, especially hackathons and projects that solve real-world problems |
-| 🆘 **Requesting backup on** | Getting more proficient in Java and backend development, and turning random ideas into actual projects |
-| 💬 **Ask me about** | My journey into tech, hackathons, learning to code, or my quest to become a Data Engineer |
+| **Currently working on** | Building my software engineering skills and exploring data engineering |
+| **Currently learning** | Java • SQL • Backend Development • Web Development • Data Engineering |
+| **Looking to collaborate on** | Data, AI & software projects, especially hackathons and projects that solve real-world problems |
+| **Requesting backup on** | Getting more proficient in Java and backend development, and turning random ideas into actual projects |
+| **Ask me about** | My journey into tech, hackathons, learning to code, or my quest to become a Data Engineer |
 
-> ⚡ **FUN FACT.EXE** — I went from being nervous about joining my first hackathon...
-> ...to actually **winning one.** 🏆
+>  **FUN FACT.EXE** — I went from being nervous about joining my first hackathon...
+> ...to actually **winning one.** 
 
 ---
 
@@ -130,13 +130,13 @@ ENTRY:   "I have absolutely no idea what I'm doing."
 EXIT:    "Wait... we actually built something."
 ```
 
-| ⚔️ MISSION | 🎖️ RESULT |
+| MISSION | RESULT |
 |:--|:--|
-| **She Builds Tomorrow 2026** | 🏆 **WINNER** |
-| **Entelect Hack\<IT\> Community Cup 2026** | 💻 **COMPETED** |
-| **GKHack26** | 💻 **COMPETED** |
-| **WeThinkCode x Mukuru SheHacks** | 💻 **COMPETED** |
-| **Next challenge** | 🚀 `LOADING...` |
+| **She Builds Tomorrow 2026** | **WINNER** |
+| **Entelect Hack\<IT\> Community Cup 2026** | **COMPETED** |
+| **GKHack26** | **COMPETED** |
+| **WeThinkCode x Mukuru SheHacks** | **COMPETED** |
+| **Next challenge** | `LOADING...` |
 
 ---
 
@@ -174,18 +174,18 @@ EXIT:    "Wait... we actually built something."
 
 ```text
 ╔═════════════════════════════════════════╗
-║  🧠 LEARNING ............. [ACTIVE]     ║
-║  ☕ DEBUGGING ............ [ACTIVE]     ║
-║  💻 BUILDING ............. [ACTIVE]     ║
-║  🧪 EXPERIMENTING ........ [ACTIVE]     ║
-║  🏆 NEXT HACKATHON ....... [PENDING]    ║
+║     LEARNING ............. [ACTIVE]     ║
+║     DEBUGGING ............ [ACTIVE]     ║
+║     BUILDING ............. [ACTIVE]     ║
+║     EXPERIMENTING ........ [ACTIVE]     ║
+║     NEXT HACKATHON ....... [PENDING]    ║
 ║                                         ║
 ║  > status: "I can probably figure it    ║
 ║             out."                       ║
 ╚═════════════════════════════════════════╝
 ```
 
-### 👀 If you've made it this far...
+### If you've made it this far...
 
 Thanks for stopping by. I'm still learning, still building, and
 occasionally breaking things in the name of education.
